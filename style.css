@@ -1,0 +1,38 @@
+#outter_div{
+    margin: 40px;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, rgba(255,0,0,1), rgba(205, 235, 8, 0.51));
+}
+#inner_div{
+    margin-left: 150px;
+    margin-top: 0%;
+    margin-right: 150px;
+ 
+}
+.buttons{
+    border-radius: 10px;
+    font-size: small;
+}
+
+.columnwidth{
+    width:50px;
+}
+
+.input1{
+    border: 1px solid black;
+}
+
+#input2{
+    border: 1px solid black;
+    width: 355px;
+}
+
+#inputbox{
+    border: 1px solid black;
+    width: 500px;
+    height: 100px;
+}
+
+.footnote{
+    font-style: italic;
+}
